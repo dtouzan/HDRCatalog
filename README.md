@@ -1,2 +1,2 @@
-![CibouletteCatalogue](HDRCatalogue.png?raw=true "HDRCatalogue.png") 
+![CibouletteCatalogue](HDRCatalog.png?raw=true "HDRCatalog.png") 
 
